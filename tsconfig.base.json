@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@cpx-mfe/food": ["libs/food/src/index.ts"],
       "@cpx-mfe/task": ["libs/task/src/index.ts"]
     }
   },
